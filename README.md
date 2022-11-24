@@ -10,4 +10,6 @@ I fully analyzed the tweets and negative reasons and for each airline along with
 then vectorize it and classified  them with SVC 
 </br>
 accuracy=92%
+</br>
+Data link=https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
