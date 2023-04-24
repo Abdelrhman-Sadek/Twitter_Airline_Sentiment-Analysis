@@ -26,7 +26,6 @@ The number of total tweets about every airline was:
 * Delta:             2222
 * Virgin America:     504
 ![image](https://user-images.githubusercontent.com/94745919/234128501-002de867-b0da-4bcd-baff-b326aeda1304.png)
-</br>
 Number of Sentiment in each day is : 
 ![image](https://user-images.githubusercontent.com/94745919/234130535-3dc4a891-141c-4c93-88be-56e930c22dd4.png)
 </br>
