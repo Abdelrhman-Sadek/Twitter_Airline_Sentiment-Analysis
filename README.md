@@ -83,9 +83,7 @@ Then using SVC to classify the cleaned tweets
 </br>
 **Accuracy Score is: 0.9241164241164241**
 
-Accuracy Score is: 0.9241164241164241
-
-               precision    recall  f1-score   support
+    precision    recall  f1-score   support
 
     negative       0.93      0.98      0.95      2323
     positive       0.88      0.71      0.79       563
