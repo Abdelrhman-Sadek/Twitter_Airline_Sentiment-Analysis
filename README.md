@@ -36,7 +36,6 @@ The number of total tweets about every airline was:
 
 Number of Sentiment in each day:
 ![image](https://user-images.githubusercontent.com/94745919/234131383-17137125-2228-4854-bf80-2f8902188f3c.png)
-
 </br>
 Flights on 2015-02-22 & 2015-02-23 have the most airline sentiment and most negative ones
 </br>
