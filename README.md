@@ -83,14 +83,14 @@ Then using SVC to classify the cleaned tweets
 </br>
 **Accuracy Score is: 0.9241164241164241**
 
-    |precision    recall  f1-score   support|
+    |precision  |  recall | f1-score  | support|
 
-    |negative       0.93      0.98      0.95      2323|
-    |positive       0.88      0.71      0.79       563|
+    |negative   |    0.93 |     0.98   |   0.95 |     2323|
+    |positive   |    0.88 |     0.71   |   0.79  |     563|
 
-    |accuracy                           0.92      2886|
-    |macro avg       0.90      0.84     0.87      2886|
-    |weighted avg    0.92      0.92     0.92      2886|
+    |accuracy   |                     |   0.92  |    2886|
+    |macro avg  |     0.90 |     0.84  |   0.87  |    2886|
+    |weighted avg |   0.92 |     0.92  |   0.92  |    2886|
 
 </br>
 </br>
