@@ -14,17 +14,26 @@ Data was scraped from February of 2015 (2015-02-16) to(2015-02-24) 9 days range
 the objective was to analysis these tweets and know the reasons behind them such as (late flight,customer serves,etc)
 </br>
 ### Negative Tweets
-the most negative reasons was issues about the customer service and late flights 
+The most negative reasons was issues about the customer service and late flights 
 ![image](https://user-images.githubusercontent.com/94745919/234127521-69e5c18f-8241-451c-bf52-31816c9c5eb4.png)
 </br>
 The number of total tweets about every airline was:
 </br>
-* United            3822
-* US Airways        2913
-* American          2759
-* Southwest         2420
-* Delta             2222
-* Virgin America     504
+* United:            3822
+* US Airways:        2913
+* American:          2759
+* Southwest:         2420
+* Delta:             2222
+* Virgin America:     504
+![image](https://user-images.githubusercontent.com/94745919/234128501-002de867-b0da-4bcd-baff-b326aeda1304.png)
+</br>
+Number of Sentiment in each day is : 
+![image](https://user-images.githubusercontent.com/94745919/234128647-64bb1bcc-cf71-44db-9115-4ac60c77a562.png)
+![image](https://user-images.githubusercontent.com/94745919/234129233-bdd5a48c-db78-4c20-bef1-70b12cc89063.png)
+Flights on 2015-02-22 & 2015-02-23 have the most airline sentiment and most negative ones
+</br>
+the percentage of neutral & positive sentiment on 2015-02-18 is the highest
+</br>
 
 then vectorize it and classified  them with SVC 
 </br>
