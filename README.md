@@ -1,12 +1,31 @@
 # Twitter_Airline_Sentiment-Analysis
-the data I worked on contained a 14640  US Airline tweerts have Sentiments about airline (postive,negative,natural) with dates 
+![image](https://user-images.githubusercontent.com/94745919/234124700-504283f1-e501-48da-ba0b-5a4b877f2a45.png)
+## Description
+Tweeter is one of the most powerful social media platforms if not the most powerful one
 </br>
-data was scraped from February of 2015 
+Big companys from all over the world give it a huge attention to know the opinions of the customers in different fileds so they can know what they love,hate or 
+even what is not important to them so the companys can learn form there mistakes and improve there services 
 </br>
+This data contains 14640 tweet Sentiments about US airlines('Virgin America', 'United', 'Southwest', 'Delta', 'US Airways','American') with dates 
+</br>
+Data was scraped from February of 2015 (2015-02-16) to(2015-02-24) 9 days range
+</br>
+## Data Analysis
 the objective was to analysis these tweets and know the reasons behind them such as (late flight,customer serves,etc)
 </br>
-I fully analyzed the tweets and negative reasons and for each airline along with the number of tweets every airline received in each day 
+### Negative Tweets
+the most negative reasons was issues about the customer service and late flights 
+![image](https://user-images.githubusercontent.com/94745919/234127521-69e5c18f-8241-451c-bf52-31816c9c5eb4.png)
 </br>
+The number of total tweets about every airline was:
+</br>
+* United            3822
+* US Airways        2913
+* American          2759
+* Southwest         2420
+* Delta             2222
+* Virgin America     504
+
 then vectorize it and classified  them with SVC 
 </br>
 accuracy=92%
