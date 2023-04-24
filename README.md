@@ -53,4 +53,41 @@ United and US Airlines are consistently getting negative tweets so its an old pr
 </br>
 Delta and Virgin Amarica are the least to get negative tweets on the last day(24-02-2015) and it seems they fixed there problems especially Delta which its negative tweets are significantly redused over time
 </br>
+Most common words the negative tweets have:
+![image](https://user-images.githubusercontent.com/94745919/234135767-ac147efb-036f-47dd-b158-1095e5d81170.png)
+</br>
+some of the words have double meaning but like plane,flight,customer servive,etc but the are in negative tweets so we will take them the negative way
+</br>
+we can see that flight is the most freq word but if dosen't mean anything (because is airlines tweets so the most likely to have flight in the tweets)but it may represent bad fligt in genral
+</br>
+we can see also that the late flights whether was delayed or canceled
+</br>
+and also there is a plane and seats problems and may be bag and luggage damage or lose
+## Postive Tweets Analysis
+The majorty of the tweets were negative but there where also postive tweets lets see it's reasons
+Most common words the negative tweets have:
+![image](https://user-images.githubusercontent.com/94745919/234135945-c48a8b0c-3591-49cc-8a63-ab540668d9e3.png)
+</br>
+## Modeling
+This process is about bulind a classifier that classifies the postive and negative tweets so the company can keep track of its work more easly
+</br>
+cleaning the tweets is the first step in before modeling so the model can give a good accuracy 
+</br>
+Frist is removing the words and symbols that wont be useful in the classification using nltk
+</br>
+Then using SVC to classify the cleaned tweets
+![image](https://user-images.githubusercontent.com/94745919/234137758-c9166300-49c9-4a58-87ad-2ab745c9a7f0.png)
+</br>
+Accuracy Score is: 0.9241164241164241
+
+              | precision   | recall | f1-score   |support
+
+   | negative      | 0.93     | 0.98    |  0.95    |  2323
+   | positive      | 0.88   |   0.71    |  0.79    |   563
+
+   | accuracy     |           |         |  0.92    |  2886
+   macro avg      | 0.90    |  0.84    |  0.87    |  2886
+weighted avg      | 0.92    |  0.92    |  0.92    |  2886
+</br>
+</br>
 Data link=https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
