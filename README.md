@@ -1,5 +1,5 @@
 # Twitter_Airline_Sentiment-Analysis
-![image](https://user-images.githubusercontent.com/94745919/234124700-504283f1-e501-48da-ba0b-5a4b877f2a45.png)
+![image](https://user-images.githubusercontent.com/94745919/234139460-5a05acd6-076b-489b-82c6-e8e26a5109fd.png)
 ## Description
 Tweeter is one of the most powerful social media platforms if not the most powerful one
 </br>
@@ -85,7 +85,7 @@ Then using SVC to classify the cleaned tweets
 
     |precision  |  recall | f1-score  | support|
 
-    |negative   |    0.93 |     0.98   |   0.95 |     2323|
+    |negative   |    0.93 |     0.98   |   0.95 |    2323|
     |positive   |    0.88 |     0.71   |   0.79 |     563|
 
     |accuracy   |                      |   0.92 |    2886|
