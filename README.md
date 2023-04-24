@@ -30,15 +30,11 @@ United airline have the most negative sentiment (over 2500)
 Virgin America is the highest neutral & positive percentage of all of them
 </br>
 over 65% of the tweets about American ,United and Us airways are negative and they all combined took around 73% of the negative tweets and the other airline share only the rest of the 27%
+</br>
 ![image](https://user-images.githubusercontent.com/94745919/234128501-002de867-b0da-4bcd-baff-b326aeda1304.png)
 </br>
 Flights on 2015-02-22 & 2015-02-23 have the most airline sentiment and most negative ones
+</br>
 ![image](https://user-images.githubusercontent.com/94745919/234131383-17137125-2228-4854-bf80-2f8902188f3c.png)
-</br>
-the percentage of neutral & positive sentiment on 2015-02-18 is the highest
-</br>
-then vectorize it and classified  them with SVC 
-</br>
-accuracy=92%
 </br>
 Data link=https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
