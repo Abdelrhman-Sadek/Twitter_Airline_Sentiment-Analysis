@@ -28,7 +28,7 @@ The number of total tweets about every airline was:
 ![image](https://user-images.githubusercontent.com/94745919/234128501-002de867-b0da-4bcd-baff-b326aeda1304.png)
 </br>
 Number of Sentiment in each day is : 
-![image](https://user-images.githubusercontent.com/94745919/234128647-64bb1bcc-cf71-44db-9115-4ac60c77a562.png)
+![image](https://user-images.githubusercontent.com/94745919/234130535-3dc4a891-141c-4c93-88be-56e930c22dd4.png)
 </br>
 Flights on 2015-02-22 & 2015-02-23 have the most airline sentiment and most negative ones
 </br>
@@ -41,4 +41,3 @@ then vectorize it and classified  them with SVC
 accuracy=92%
 </br>
 Data link=https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
-
