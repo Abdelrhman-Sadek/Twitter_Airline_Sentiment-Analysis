@@ -40,6 +40,17 @@ Number of Sentiment in each day:
 </br>
 Flights on 2015-02-22 & 2015-02-23 have the most airline sentiment and most negative ones
 </br>
-
+Reasons for negative sentimental tweets for each airline
+![image](https://user-images.githubusercontent.com/94745919/234135343-c60f9605-f8ab-40a9-987e-c4c44a3a16bf.png)
+the main problem and complain it the customer serveice except who's major problem is late flights more than customer serveice and come in the second place late flights and damage luggage is the least negativereason to be complained
+</br>
+lets see in which days each airline get negativereason and its reasons
+![image](https://user-images.githubusercontent.com/94745919/234135542-c9cf8719-66ae-4504-adb5-90380ade9734.png)
+</br>
+this plot shows that the American airline negative tweets starts only from day 22-02-2015 and before that they didn't have any proplem('according the negative tweets') so its a new thing may be temporary problem mostly caused by the Customer serveies and fixing this problem should make things back to normal
+</br>
+United and US Airlines are consistently getting negative tweets so its an old proplem and it's cause alot of things mostly(Customer serveies,late fights) so they should fixs these two first
+</br>
+Delta and Virgin Amarica are the least to get negative tweets on the last day(24-02-2015) and it seems they fixed there problems especially Delta which its negative tweets are significantly redused over time
 </br>
 Data link=https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
