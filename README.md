@@ -25,7 +25,6 @@ The number of total tweets about every airline was:
 * Delta:             2222
 * Virgin America:     504
 ![image](https://user-images.githubusercontent.com/94745919/234128501-002de867-b0da-4bcd-baff-b326aeda1304.png)
-</br>
 * United airline have the most negative sentiment (over 2500)
 * Virgin America is the highest neutral & positive percentage of all of them
 * over 65% of the tweets about American, United and Us airways are negative and they all combined took around 73% of the negative tweets
