@@ -54,6 +54,7 @@ United and US Airlines are consistently getting negative tweets so its an old pr
 Delta and Virgin Amarica are the least to get negative tweets on the last day(24-02-2015) and it seems they fixed there problems especially Delta which its negative tweets are significantly redused over time
 </br>
 Most common words the negative tweets have:
+</br>
 ![image](https://user-images.githubusercontent.com/94745919/234135767-ac147efb-036f-47dd-b158-1095e5d81170.png)
 </br>
 some of the words have double meaning but like plane,flight,customer servive,etc but the are in negative tweets so we will take them the negative way
@@ -66,6 +67,7 @@ and also there is a plane and seats problems and may be bag and luggage damage o
 ## Postive Tweets Analysis
 The majorty of the tweets were negative but there where also postive tweets lets see it's reasons
 Most common words the negative tweets have:
+</br>
 ![image](https://user-images.githubusercontent.com/94745919/234135945-c48a8b0c-3591-49cc-8a63-ab540668d9e3.png)
 </br>
 ## Modeling
