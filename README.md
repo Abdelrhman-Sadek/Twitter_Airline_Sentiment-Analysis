@@ -24,6 +24,7 @@ The number of total tweets about every airline was:
 * Southwest:         2420
 * Delta:             2222
 * Virgin America:     504
+
 ![image](https://user-images.githubusercontent.com/94745919/234128501-002de867-b0da-4bcd-baff-b326aeda1304.png)
 * United airline have the most negative sentiment (over 2500)
 * Virgin America is the highest neutral & positive percentage of all of them
@@ -38,5 +39,7 @@ Number of Sentiment in each day:
 ![image](https://user-images.githubusercontent.com/94745919/234131383-17137125-2228-4854-bf80-2f8902188f3c.png)
 </br>
 Flights on 2015-02-22 & 2015-02-23 have the most airline sentiment and most negative ones
+</br>
+
 </br>
 Data link=https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
