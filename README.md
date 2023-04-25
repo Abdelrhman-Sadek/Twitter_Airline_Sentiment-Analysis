@@ -1,6 +1,6 @@
 # Twitter_Airline_Sentiment-Analysis
-<div style="text-align:center"><img src="![image](https://user-images.githubusercontent.com/94745919/234140696-34c36ddb-d949-4077-94c2-79c8c734bf9a.png)
-" /></div>
+![image](https://user-images.githubusercontent.com/94745919/234140750-167b3dd0-74b9-47e8-893c-b15567acf56f.png)
+
 ## Description
 Tweeter is one of the most powerful social media platforms if not the most powerful one
 </br>
