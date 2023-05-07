@@ -1,6 +1,6 @@
 # Twitter_Airline_Sentiment-Analysis
 
-<img align="center" src="https://user-images.githubusercontent.com/94745919/234140927-fd752321-8338-4d2b-8cfa-a81dc3bbc85f.png"/>
+<img align="center" src="https://media.sproutsocial.com/uploads/2020/09/Benefits-of-Twitter-v03.svg"/>
 
 ## Description
 Tweeter is one of the most powerful social media platforms if not the most powerful one
