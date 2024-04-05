@@ -3,19 +3,19 @@
 <img align="center" src="https://media.sproutsocial.com/uploads/2020/09/Benefits-of-Twitter-v03.svg"/>
 
 ## Description
-Tweeter is one of the most powerful social media platforms if not the most powerful one
+Twitter is one of the most powerful social media platforms if not the most powerful one
 </br>
-Big companys from all over the world give it a huge attention to know the opinions of the customers in different fileds so they can know what they love,hate or even what is not important to them so the companys can learn form there mistakes and improve there services 
+Big companies from all over the world give huge attention to knowing the opinions of the customers in different fields so they can know what they love, hate or even what is not important to them so the companies can learn from their mistakes and improve their services 
 </br>
-This data contains 14640 tweet Sentiments about US airlines('Virgin America', 'United', 'Southwest', 'Delta', 'US Airways','American') with dates 
+This data contains 14640 tweet Sentiments about US airlines('Virgin America', 'United', 'Southwest', 'Delta', 'US Airways', 'American') with dates 
 </br>
 Data was scraped from February of 2015 (2015-02-16) to(2015-02-24) 9 days range
 </br>
 ## Data Analysis
-the objective was to analysis these tweets and know the reasons behind them such as (late flight,customer serves,etc)
+the objective was to analyze these tweets and know the reasons behind them such as (late flights, customer service, etc)
 </br>
 ### Negative Tweets
-The most negative reasons was issues about the customer service and late flights 
+The most negative reasons were issues with customer service and late flights 
 ![image](https://user-images.githubusercontent.com/94745919/234127521-69e5c18f-8241-451c-bf52-31816c9c5eb4.png)
 </br>
 The number of total tweets about every airline was:
@@ -28,56 +28,56 @@ The number of total tweets about every airline was:
 * Virgin America:     504
 
 ![image](https://user-images.githubusercontent.com/94745919/234128501-002de867-b0da-4bcd-baff-b326aeda1304.png)
-* United airline have the most negative sentiment (over 2500)
-* Virgin America is the highest neutral & positive percentage of all of them
+* United airline has the most negative sentiment (over 2500)
+* Virgin America has the highest neutral & positive percentages of all of them
 
 ![image](https://user-images.githubusercontent.com/94745919/234134808-9e50f46b-0ed8-49a5-8aa7-b2612c7b8018.png)
 
-* over 65% of the tweets about American, United and Us airways are negative and they all combined took around 73% of the negative tweets
-* others airline share only the rest of the 27%
-* from first look and according to the percentages Virgin is the best Airline and US Airways Airline is the worest
+* over 65% of the tweets about American, United, and US Airways are negative and they all combined took around 73% of the negative tweets
+* Other airlines share only the rest of the 27%
+* from the first look and according to the percentages Virgin is the best Airline and US Airways Airline is the worst
 
-Number of Sentiment in each day:
+Number of Sentiments in each Day:
 ![image](https://user-images.githubusercontent.com/94745919/234131383-17137125-2228-4854-bf80-2f8902188f3c.png)
 </br>
 Flights on 2015-02-22 & 2015-02-23 have the most airline sentiment and most negative ones
 </br>
 Reasons for negative sentimental tweets for each airline
 ![image](https://user-images.githubusercontent.com/94745919/234135343-c60f9605-f8ab-40a9-987e-c4c44a3a16bf.png)
-the main problem and complain it the customer serveice except who's major problem is late flights more than customer serveice and come in the second place late flights and damage luggage is the least negativereason to be complained
+the main problem and complaints it the customer service except whose major problem is late flights more than customer service and comes in second place late flights and damaged luggage is the least negative reason to complain
 </br>
-lets see in which days each airline get negativereason and its reasons
+Let's see on which days each airline gets negative and its reasons
 ![image](https://user-images.githubusercontent.com/94745919/234135542-c9cf8719-66ae-4504-adb5-90380ade9734.png)
 </br>
-this plot shows that the American airline negative tweets starts only from day 22-02-2015 and before that they didn't have any proplem('according the negative tweets') so its a new thing may be temporary problem mostly caused by the Customer serveies and fixing this problem should make things back to normal
+this plot shows that the American airline negative tweets started only from day 22-02-2015 and before that, they didn't have any problems ('according to the negative tweets') so it's a new thing that may be a temporary problem mostly caused by the Customer service and fixing this problem should make things back to normal
 </br>
-United and US Airlines are consistently getting negative tweets so its an old proplem and it's cause alot of things mostly(Customer serveies,late fights) so they should fixs these two first
+United and US Airlines are consistently getting negative tweets so it is an old problem and it's caused a lot of things mostly(Customer service, late fights) so they should fix these two first
 </br>
-Delta and Virgin Amarica are the least to get negative tweets on the last day(24-02-2015) and it seems they fixed there problems especially Delta which its negative tweets are significantly redused over time
+Delta and Virgin America are the least likely to get negative tweets on the last day(24-02-2015) and it seems they fixed their problems, especially Delta whose negative tweets are significantly reduced over time
 </br>
-Most common words the negative tweets have:
+The most common words the negative tweets have:
 </br>
 ![image](https://user-images.githubusercontent.com/94745919/234135767-ac147efb-036f-47dd-b158-1095e5d81170.png)
 </br>
-some of the words have double meaning but like plane,flight,customer servive,etc but the are in negative tweets so we will take them the negative way
+some of the words have a double meaning like plane, flight, customer service, etc but they are in negative tweets so we will take them the negative way
 </br>
-we can see that flight is the most freq word but if dosen't mean anything (because is airlines tweets so the most likely to have flight in the tweets)but it may represent bad fligt in genral
+we can see that flight is the most frequent word but it doesn't mean anything (because its airlines' tweets a flight word is most likely to be in a tweet whether it is positive or negative)but it may represent bad flight in general
 </br>
-we can see also that the late flights whether was delayed or canceled
+we can see also that the late flights whether delayed or canceled
 </br>
-and also there is a plane and seats problems and may be bag and luggage damage or lose
-## Postive Tweets Analysis
-The majorty of the tweets were negative but there where also postive tweets lets see it's reasons
-Most common words the negative tweets have:
+and also there is a plane and seat problems and maybe bag and luggage damage or lose
+## Positive Tweets Analysis
+The majority of the tweets were negative but there were also positive tweets let's see its reasons
+The most common words the negative tweets have:
 </br>
 ![image](https://user-images.githubusercontent.com/94745919/234135945-c48a8b0c-3591-49cc-8a63-ab540668d9e3.png)
 </br>
 ## Modeling
-This process is about bulind a classifier that classifies the postive and negative tweets so the company can keep track of its work more easly
+This process is about building a classifier that classifies the positive and negative tweets so the company can keep track of its work more easily
 </br>
-cleaning the tweets is the first step in before modeling so the model can give a good accuracy 
+cleaning the tweets is the first step before modeling so the model can give a good accuracy 
 </br>
-Frist is removing the words and symbols that wont be useful in the classification using nltk
+First is removing the words and symbols that won't be useful in the classification using nltk
 </br>
 Then using SVC to classify the cleaned tweets
 </br>
